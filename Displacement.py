@@ -1,0 +1,5 @@
+v = int(input('Enter v : '))
+u = int(input('Enter u : '))
+a = int(input('Enter a : '))
+d = (v * v - u * u) / (2 * a)
+print('Displacement :', d)

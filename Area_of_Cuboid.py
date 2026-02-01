@@ -1,0 +1,5 @@
+l = int(input('Enter l : '))
+b = int(input('Enter b : '))
+h = int(input('Enter h : '))
+area = 2 * (l*h + l*b +b*h )
+print('Area of Cuboid :', area)
